@@ -1,4 +1,4 @@
-<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/85300dbf-ecd6-42aa-971c-41279f892e49" /># David Tang – IT Professional
+# David Tang – IT Professional
 
 ## Hi there, welcome to my portfolio.
 From cybersecurity to cloud, scripting to systems administration, there's a bit of everything here. Take a look around!
@@ -8,10 +8,10 @@ From cybersecurity to cloud, scripting to systems administration, there's a bit 
 | Domain | Associated Project |
 | :--- | :--- |
 | AWS | _Work In Progress_ |
-| ServiceNow | <a href="https://github.com/davidt404/ServiceNow-ITSM-Workflow/">ServiceNow ITSM Workflow</a>|
-| Bash | <a href="https://github.com/davidt404/macos-desktop-visibility/">macOS Desktop Visibility Toggle Script</a>|
+| Bash | Network Interface Randomizer
 | PowerShell | _Work In Progress_ |
 | Python | _Work In Progress_ |
+| ServiceNow | <a href="https://github.com/davidt404/ServiceNow-ITSM-Workflow/">ServiceNow ITSM Workflow</a>|
 
 ## Skills
 
