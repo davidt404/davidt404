@@ -1,7 +1,7 @@
 <img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/85300dbf-ecd6-42aa-971c-41279f892e49" /># David Tang – IT Professional
 
 ## Hi there, welcome to my portfolio.
-From cybersecurity to cloud, from scripting to systems administration, there’s a bit of everything here. Take a look around!
+From cybersecurity to cloud, scripting to systems administration, there's a bit of everything here. Take a look around!
 
 ## Projects
 
