@@ -67,6 +67,6 @@ From cybersecurity to cloud, scripting to systems administration, there's a bit 
 
 ## Education
 <div>
-  <a href="https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html">Bachelor's in Cybersecurity and Information Assurance</a><br>
-	Western Governors University</p>
+<p><strong>Bachelor's in Cybersecurity and Information Assurance</strong><br>
+Western Governors University</p>
 </div>
