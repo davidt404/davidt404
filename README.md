@@ -1,15 +1,17 @@
-# David Tang – IT Professional
+<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/85300dbf-ecd6-42aa-971c-41279f892e49" /># David Tang – IT Professional
 
-## Hi there, I'm David Tang! Welcome to my portfolio.
+## Hi there, welcome to my portfolio.
 From cybersecurity to cloud, from scripting to systems administration, there’s a bit of everything here. Take a look around!
 
 ## Projects
 
 | Domain | Associated Project |
 | :--- | :--- |
-| IT Service Management | <a href="https://github.com/davidt404/ServiceNow-ITSM-Workflow/">ServiceNow ITSM Workflow</a>|
-| Bash | <a href="https://github.com/davidt404/macos-desktop-visibility/">macOS Desktop Visibility Script</a>|
-| Directory Services | _Work In Progress_ |
+| AWS | _Work In Progress_ |
+| ServiceNow | <a href="https://github.com/davidt404/ServiceNow-ITSM-Workflow/">ServiceNow ITSM Workflow</a>|
+| Bash | <a href="https://github.com/davidt404/macos-desktop-visibility/">macOS Desktop Visibility Toggle Script</a>|
+| PowerShell | _Work In Progress_ |
+| Python | _Work In Progress_ |
 
 ## Skills
 
@@ -60,8 +62,7 @@ From cybersecurity to cloud, from scripting to systems administration, there’s
 <img src="https://img.shields.io/badge/-MS--900-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-LPI%20Linux%20Essentials-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
 <br>
-<img src="https://img.shields.io/badge/-AZ--104%20(In%20Progress)-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/-AZ--305%20(In%20Progress)-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20SAA--C03%20(In%20Progress)-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
 
 ## Education
