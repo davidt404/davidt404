@@ -10,7 +10,7 @@ From cybersecurity to cloud, scripting to systems administration, there's a bit 
 | AWS IAM Security| _Work In Progress_ |
 | Bash| <a href="https://github.com/davidt404/Security-Log-Parser-Alert-Generator/">Security Log Parser Alert Generator</a>|
 | PowerShell | <a href="https://github.com/davidt404/PowerShell-Security-Audit/">Security Compliance Audit</a>|
-| Python | _Work In Progress_ |
+| Python | <a href="https://github.com/davidt404/Python-API-Integration">Python API Integration</a>|
 | ServiceNow | <a href="https://github.com/davidt404/ServiceNow-ITSM-Workflow/">ServiceNow ITSM Workflow</a>|
 
 ## Skills
