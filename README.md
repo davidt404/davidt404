@@ -8,9 +8,9 @@ From cybersecurity to cloud, scripting to systems administration, there's a bit 
 | Domain | Associated Project |
 | :--- | :--- |
 | AWS | _Work In Progress_ |
-| Bash | Network Interface Randomizer
-| PowerShell | _Work In Progress_ |
-| Python | _Work In Progress_ |
+| Bash| <a href="https://github.com/davidt404/Security-Log-Parser-Alert-Generator/">Security Log Parser Alert Generator</a>|
+| PowerShell | <a href=" ">Security Compliance Audit</a>|
+| Python | <a href=" ">Python REST API Integration</a>|
 | ServiceNow | <a href="https://github.com/davidt404/ServiceNow-ITSM-Workflow/">ServiceNow ITSM Workflow</a>|
 
 ## Skills
